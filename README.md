@@ -1,6 +1,6 @@
 
 
-MINTING AND BURNING TOKENS
+/*MINTING AND BURNING TOKENS
 This Solidity program performs the task of minting,burning and also to display the token balance. This program demonstrates the use of functions and mapping of addresses to balancee in the Solidity programming language and also the use od conditional statement. The purpose of this program is to build confidence in new coders and to make the coders understand the basics od solidity.
 
 Description
@@ -18,7 +18,7 @@ Getting Started
 Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., token.sol). Copy and paste the following code into the file:
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., token.sol). Copy and paste the following code into the file:*/
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
