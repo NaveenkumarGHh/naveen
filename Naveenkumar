@@ -19,9 +19,9 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tokenname = "lowkey";
-    string public tokenabbrv = "LK";
-    uint public totalsupply = 1000;
+    string public tokenname = "RED CHILLI";
+    string public tokenabbrv = "RC";
+    uint public totalsupply = 3000;
     
     // mapping variable here
     mapping(address => uint) public balance;
@@ -48,8 +48,8 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the burn or mint function by entering the address and the input token number. Click on the "burn","mint" contract in the left-hand sidebar, and once you give the input the tokens will be burnt or minted according to the option selected .Finally, click on the "total balance" to check the balance after performing the above functions.
 
 Authors
-Dhanush km
-dhamushkm@gmail.com
+NAVEENKUMAR UJANI
+naveenkumarujani92@gmail.com
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
